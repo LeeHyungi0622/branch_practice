@@ -1,1 +1,2 @@
-print("Edit text message")
+for _ in range(5):
+    print("Edit text message")
